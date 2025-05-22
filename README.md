@@ -1,0 +1,2 @@
+# ContactsManagerApp
+MVVM + ROOM
